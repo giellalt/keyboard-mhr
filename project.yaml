@@ -32,4 +32,7 @@ targets:
     packageId: no.uit.giella.keyboards.mhr
     bundleName: *bundleName
     icon: images/mhr-icon.png
-  osx: *AppleID
+  osx:
+    <<: *AppleID
+    icon: images/mhr-icon.png
+    codeSignId: "my-test-installer"
