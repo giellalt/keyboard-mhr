@@ -1,12 +1,13 @@
-internalName: meadow_mari_keyboards
+### Generated from se-t-k0-osx.xml on 2017-05-08 at 07:51.
+internalName: mhr_keyboards
 
 displayNames:
   en: Meadow Mari
   ru: Лугово-марийский язык
-  mrj: Олык мари
+  mhr: Олык мари
 
 locale: mhr
- 
+
 modes:
 # mobile layouts:
   mobile-default: |
