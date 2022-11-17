@@ -54,7 +54,7 @@ macOS:
 
 windows:
   config:
-    locale: se-Latn-NO
+    locale: mhr-Cyrl-RU
   primary:
     layers:
       default: |
