@@ -2,7 +2,9 @@ displayNames:
   en: Meadow Mari
   ru: Лугово-марийский язык
   mhr: Олык мари
+
 decimal: ','
+
 macOS:
   primary:
     layers:
@@ -59,6 +61,22 @@ macOS:
         B10: –
   deadKeys:
     cmd+alt: [',', '¯', '¸', 'ƒ', '˙', '˜', '˝']
+
+longpress:
+  Н: Ҥ
+  У: Ӱ
+  А: Ӓ
+  Е: Ё
+  Ы: Ӹ
+  О: Ӧ
+  н: ҥ
+  у: ӱ
+  а: ӓ
+  е: ё
+  ы: ӹ
+  о: ӧ
+  ь: ъ
+
 transforms:
   '-':
     ' ': '-'
@@ -551,20 +569,7 @@ transforms:
     O: Ơ
     u: ư
     U: Ư
-longpress:
-  Н: Ҥ
-  У: Ӱ
-  А: Ӓ
-  Е: Ё
-  Ы: Ӹ
-  О: Ӧ
-  н: ҥ
-  у: ӱ
-  а: ӓ
-  е: ё
-  ы: ӹ
-  о: ӧ
-  ь: ъ
+
 keyNames:
   space: Пробел
   return: Ввод
