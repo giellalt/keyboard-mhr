@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Eastern Mari keyboards
 
 ## Layouts
