@@ -6,7 +6,7 @@ layout: default
 
 ## Layouts
 
-- [Layout overview](layout.md)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=mhr&interactive=false"></iframe>
 
 ## Other information
 
